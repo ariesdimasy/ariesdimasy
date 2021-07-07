@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ariesdimasy
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning django framework
-- 💞️ I’m looking to collaborate on baezeni
 - 📫 How to reach me 
 
 <!---
