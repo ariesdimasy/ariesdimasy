@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ariesdimasy
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning django framework
+- 👀 I’m interested in mobile app development using flutter
+- 🌱 I’m currently learning golang and nest js 
 - 📫 How to reach me 
 
 <!---
