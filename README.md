@@ -36,10 +36,13 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
   <img alt="Node js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
-  <img alt="Express js" src="https://img.shields.io/badge/Express Js-339933?logo=express&logoColor=white&style=flat" />
+  <img alt="Express js" src="https://img.shields.io/badge/Express.Js-339933?logo=express&logoColor=white&style=flat" />
+  <img alt="Nest js" src="https://img.shields.io/badge/Nest.ts-339933?logo=nest.ts&logoColor=white&style=flat" />
 <img alt="React" src="https://img.shields.io/badge/React-00ADD8?logo=react&logoColor=white&style=flat" />
-<img alt="Vuejs" src="https://img.shields.io/badge/Vue-00ADD8?logo=v&logoColor=white&style=flat" />
-<img alt="Jquery" src="https://img.shields.io/badge/Jquery-00ADD8?logo=jquery&logoColor=white&style=flat" />
+<img alt="Nextjs" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white&style=flat" />
+<img alt="Vuejs" src="https://img.shields.io/badge/Vue-green?logo=vue.js&logoColor=white&style=flat" />
+<img alt="nuxtJS" src="https://img.shields.io/badge/Nuxt-green?logo=nuxt.js&logoColor=white&style=flat" />
+<img alt="Jquery" src="https://img.shields.io/badge/Jquery-1572B6?logo=jquery&logoColor=white&style=flat" />
   <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat" />
   <img alt="Fiber" src="https://img.shields.io/badge/Fiber-00ADD8?logo=go&logoColor=white&style=flat" />
   <img alt="PHP" src="https://img.shields.io/badge/php-00ADD8?logo=php&logoColor=white&style=flat" />
@@ -61,6 +64,7 @@
 <h3 style="color: white">🖥 Operating System:</h3>
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
+   <img alt="MacOS" src="https://img.shields.io/badge/MacOS-silver?logo=apple&logoColor=white&style=flat" />
 </p>
 <hr>
 
@@ -73,7 +77,7 @@
 </a>
 </p>
 
-# 💻 LeetCode Statistic:
+# 💻 LeetCode Statistic
 
 ![](https://leetcard.jacoblin.cool/ariesdimasy?animation=true)
 
