@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  A Web Development Lecturer , Fullstack Developer , Youtuber and Business man in the future
+  A Web Development Lecturer , Fullstack Developer , Youtuber and Businessman on process
 </p>
 📚 Web Development Lecturer at Purwadhika Digital Technology School <br>
 ✉ You can reach me through: <br>
