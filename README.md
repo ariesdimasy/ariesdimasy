@@ -15,7 +15,7 @@
 </a>
 <hr>
 
-### <span style="color:white;"> Yudhistira Media </span>
+### <span style="color:white;"> Yudhistira Media Youtube Channel </span>
 
 <p align='center'> 
     <a href='https://www.youtube.com/channel/UCH-0yWsg4z_F1osvmDqaV5A'><img alt='Yudhistira Media' src='https://yt3.googleusercontent.com/2Ar87xtbG1by0cZTOEMi_K1yhJUCMoXL64xFxgGL--Sk5zbcj2lNj_67Wc0At8gsofXmO-G4Kw=s176-c-k-c0x00ffffff-no-rj' /></a>
